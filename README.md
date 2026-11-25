@@ -27,7 +27,7 @@ Some vows cannot be broken, so I still keep watch over the **XDA Forums** as a S
 ### 🔮 The Spellbook (Tech I Wield)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,mint,angular,ts,nodejs,nestjs,androidstudio,apple,php,vim,docker,sql,python,windows,linux&theme=dark" alt="Arcane Arsenal" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,mint,angular,ts,nodejs,nestjs,androidstudio,apple,php,vim,docker,postgres,python,windows,linux&theme=dark" alt="Arcane Arsenal" />
 </div>
 
 <br />
